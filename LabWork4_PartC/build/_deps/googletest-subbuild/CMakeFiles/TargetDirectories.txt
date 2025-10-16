@@ -1,0 +1,3 @@
+/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

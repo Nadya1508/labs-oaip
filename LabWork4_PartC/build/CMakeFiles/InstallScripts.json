@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/nadezdasedelnik/LabWork4_PartC/build/cmake_install.cmake",
+		"/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/nadezdasedelnik/LabWork4_PartC/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
